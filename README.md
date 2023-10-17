@@ -3,6 +3,8 @@
 
 ## The Project in Action
 ![Citi-Bikes](https://static.bc-edx.com/data/dl-1-2/m18/lms/img/citi-bike-station-bikes.jpg)
+
+**Link to Tableau**: https://public.tableau.com/views/CitiBikeStoryDashboard/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link 
 ### Data Journey
 
 **Data Source:** My journey began with the rich data source provided by [Citi Bike Data](Links to an external site.). Here's what I did:
