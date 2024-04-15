@@ -20,7 +20,7 @@ The heart of the project was uncovering two unexpected phenomena hidden within t
 
 #### Phenomenon 1: _Urban Pulse_
 
-_What I Found:_ Describe the first phenomenon here.
+_What I Found:_ 
 
 -   **Data Dive:** I delved deep into the dataset, hunting for patterns, anomalies, and trends.
 -   **Visual Story:** I crafted 2-5 dynamic visualizations that brought the phenomenon to life.
@@ -28,7 +28,7 @@ _What I Found:_ Describe the first phenomenon here.
 
 #### Phenomenon 2: _Biking Secrets_
 
-_What I Found:_ Describe the second phenomenon here.
+_What I Found:_ 
 
 -   **Data Exploration:** I took a similar journey into the data to unveil this hidden treasure.
 -   **Visual Revelations:** I designed another set of 2-5 visualizations that showcased the essence of this phenomenon.
